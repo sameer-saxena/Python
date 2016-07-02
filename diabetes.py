@@ -1,8 +1,8 @@
 print("Hello")
 
 observed = 0
-while observed != 5:
 #body start
+while observed != 5:
     a = input("Input your observed RBS Count")
     observed = int(a)
     if observed == 5:
