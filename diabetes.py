@@ -14,4 +14,4 @@ while observed != 5:
             print("your sugar is controlled")
 #body end
 
-print("Goodbye!")
+print("Take Care,Goodbye!")
